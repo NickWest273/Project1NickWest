@@ -1,0 +1,6 @@
+Shampoo,8.99,8
+Soap,4.99,5
+Apples,3.99,12
+Water,5.99,23
+Paper,5.99,10
+Pens,6.99,17
