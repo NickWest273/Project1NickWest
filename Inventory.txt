@@ -1,5 +1,0 @@
-Toothpaste,1.99,8
-Soap,5.99,10
-Shampoo,7.99,6
-Water,5.99,12
-Apples,2.99,7
